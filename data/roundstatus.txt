@@ -1,0 +1,2 @@
+Another round done. {0} clinched this round with a total of ${1}. Their game total is ${2}.
+{0} has won this round with ${1}, bringing their total to ${2}.

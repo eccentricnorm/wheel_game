@@ -1,0 +1,2 @@
+Congrats, {0}! You've made it to the final round with ${1}.
+Now for the final round! We have {0} with a total of ${1}.
